@@ -1,11 +1,14 @@
 # **YouTube Views Predictor** 📊🎥
 # **Empowering creators with data-driven insights to predict YouTube channel growth!**
-![image](https://github.com/user-attachments/assets/96aec02f-f463-4ef6-b300-de7902ae2a04)
 
 # **Welcome to the YouTube Views Predictor**
 A dynamic, client-side web application that harnesses the **YouTube Data API** to analyze channel performance and forecast future video views using simplified machine learning models. With a sleek, modern UI featuring a vibrant purple-blue-red color scheme, smooth animations, and responsive design, this tool is both functional and visually stunning, making it a standout project for content creators, analysts, and recruiters alike.
-🔗 **Live Demo:** [Try the YouTube Views Predictor](Try the YouTube Views Predictor)
-🖼️ **Screenshots:** [View Screenshots](View Screenshots)
+
+
+🔗 **Live Demo:** [Try the YouTube Views Predictor]https://683dc01c1b94577cfc50390a--jocular-sfogliatella-b3e1d0.netlify.app/
+
+🖼️ **Screenshots:** 
+![image](https://github.com/user-attachments/assets/96aec02f-f463-4ef6-b300-de7902ae2a04)
 
 # **🌟 Why This Project Stands Out**
 This project showcases a blend of **front-end development, data science, and API integration skills**, demonstrating my ability to:
